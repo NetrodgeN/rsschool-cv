@@ -26,7 +26,6 @@ toggleVisibleMyDB: function (){
         }
     };
 ```
-
 ## Experience
 
 * RS.SCHOOL JavaScript/Front-end 
